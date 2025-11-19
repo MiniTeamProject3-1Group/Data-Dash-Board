@@ -9,10 +9,10 @@ assignees: ''
 
 ## Description
 
-간단히 할 일을 설명 하시오
+매출분석 대시보드 구현
 
 ## Tasks
 
-- [ ] Task 1
+- [ ] 데이터 수집
 
 ## References
